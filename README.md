@@ -74,9 +74,6 @@ We welcome contributions! Here’s how you can help:
 4. Push to your branch (`git push origin my-improvement`)  
 5. Open a **Pull Request** 🚀  
 
-## 📜 **License**  
-
-This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.  
 
 ---  
 
