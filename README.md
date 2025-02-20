@@ -1,4 +1,3 @@
-Here’s your revised version in English with a fresh and engaging tone:  
 
 ---
 
